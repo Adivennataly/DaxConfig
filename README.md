@@ -1,5 +1,5 @@
 ## DaxConfig
- Replace default DaxConfig config with DaxConfig from different devices.
+ Replace default DaxConfig file with DaxConfig from different devices.
  
  Xiaomi 11T (agate), Xiaomi 13T (aristotle), Xiaomi 12 (cupid), Xiaomi 13 (fuxi), Xiaomi 14 (houji), Xiaomi 12T (plato), Redmi Note 12 Pro 5G (ruby), Xiaomi 11T Pro (vili).
 
