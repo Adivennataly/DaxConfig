@@ -24,7 +24,7 @@
 ## Requirement
  this is config file only, not module (install manually by replacing the file in directory).
    
-    `/vendor/etc/dolby/dax-default.xml`
+    /vendor/etc/dolby/dax-default.xml
 
   If your device uses `Read-only` ROM, you must use the module version.
 
