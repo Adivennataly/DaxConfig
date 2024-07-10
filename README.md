@@ -30,7 +30,7 @@
 
  The device supports Xiaomi Dolby Atmos or uses the module: https://github.com/reiryuki/Mi-Sound-Redmi-K40-Magisk-Module/tree/main
 
- *does not cause softbrick or bootloop.
+ *does not cause softbrick or bootloop (but, installing the module `Mi-Sound-Redmi-K40-Magisk-Module` is at risk of softbrick or bootloop).
 
 ## Tested on (Stock ROM)
   - Android 12 MIUI 13
