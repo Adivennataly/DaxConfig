@@ -28,6 +28,8 @@
 
   If your device uses `Read-only` ROM, you must use the module version.
 
+ The device supports Xiaomi Dolby Atmos or uses the module: https://github.com/reiryuki/Mi-Sound-Redmi-K40-Magisk-Module/tree/main
+
  *does not cause softbrick or bootloop.
 
 ## Tested on (Stock ROM)
